@@ -1,0 +1,46 @@
+*{
+    margin: 0%;
+    border: 0%;
+    box-sizing: border-box;
+}
+body {
+    text-align: center;
+    background-color: #012169;
+                    
+
+
+}
+
+video {
+    width: 0px;
+    height: 0px;
+}
+
+table {
+    width: auto;
+    margin: auto;
+}
+
+tr, td {
+    border: 0px;
+    text-align: center; 
+}
+.main{
+    height: 100vh;
+    background-image: url(3409297.jpg);
+}
+.project{
+    height: 100vh;
+}
+
+#bg{
+    padding-left: 10%;
+    padding-top: 30%;
+    padding-right: 25%;
+    display: flex;
+    text-align: center;
+    color: rgb(98, 73, 183);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+
